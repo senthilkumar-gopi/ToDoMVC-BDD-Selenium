@@ -1,0 +1,14 @@
+.idea/
+**/.idea
+.settings/
+**/.settings
+.classpath/
+**/.classpath
+.project
+**/.project
+**.iml
+target/
+**/target
+pom.xml.*
+test-output/
+**test-output
