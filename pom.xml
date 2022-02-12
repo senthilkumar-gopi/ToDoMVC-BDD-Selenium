@@ -10,20 +10,20 @@
     
   <!-- all versions here, please mind to add in alphabetical order -->
   <properties>
-        <apache.common.version>2.6</apache.common.version>
+        <apache.common.version>2.11.0</apache.common.version>
         <cucumber.version>6.2.0</cucumber.version>
-        <extent.adapter.version>2.3.0</extent.adapter.version>
-        <extent.report.version>5.0.4</extent.report.version>
-        <guava.version>28.2-jre</guava.version>
+        <extent.adapter.version>2.9.0</extent.adapter.version>
+        <extent.report.version>5.0.9</extent.report.version>
+        <guava.version>31.0.1-jre</guava.version>
         <java.version>1.8</java.version>
-        <junit.version>4.13</junit.version>
-        <lombok.version>1.18.16</lombok.version>
-        <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
-        <maven-surefire-plugin.version>2.22.0</maven-surefire-plugin.version>
+        <junit.version>4.13.2</junit.version>
+        <lombok.version>1.18.22</lombok.version>
+        <maven-compiler-plugin.version>3.9.0</maven-compiler-plugin.version>
+        <maven-surefire-plugin.version>3.0.0-M5</maven-surefire-plugin.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <selenium.version>3.141.59</selenium.version>
-        <slf4j.version>1.7.28</slf4j.version>
+        <selenium.version>4.1.2</selenium.version>
+        <slf4j.version>2.0.0-alpha6</slf4j.version>
         <testng.version>7.0.0</testng.version>
   </properties>
   
